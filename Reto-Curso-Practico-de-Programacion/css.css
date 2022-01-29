@@ -1,0 +1,20 @@
+input{
+    border-radius: 8px;
+    background-color: rgb(166, 255, 184);
+    color: black;
+}
+body{
+    background-color: rgb(38, 48, 53);
+}
+h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
